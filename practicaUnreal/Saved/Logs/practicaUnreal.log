@@ -2760,3 +2760,880 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.24-15.23.01:727][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
 [2020.02.24-15.23.01:815][899]LogPlayLevel: Display: Destroying online subsystem :Context_50
 [2020.02.24-15.26.24:474][702]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.02.24-15.27.13:437][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.24-15.27.13:511][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.02.24-15.27.14:182][906]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/TerrainF9FF715344D9B5F0F675C4856F9AF36C.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/Terrain.umap'
+[2020.02.24-15.27.14:232][906]LogFileHelpers: Saving map 'Terrain' took 0.759
+[2020.02.24-15.27.14:232][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BasicAI1" FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/BasicAI1.uasset" SILENT=true
+[2020.02.24-15.27.14:254][906]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/BasicAI19BF4FEC649C0A9783116C5A253458EBA.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/BasicAI1.uasset'
+[2020.02.24-15.27.14:294][906]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/AIWithRagdoll37A05066447D1126B112258A0736900D.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/AIWithRagdoll.uasset'
+[2020.02.24-15.27.14:337][906]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.24-15.27.14:337][906]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Terrain.Terrain
+[2020.02.24-15.27.14:337][906]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BasicAI1.BasicAI1
+[2020.02.24-15.27.14:337][906]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AIWithRagdoll.AIWithRagdoll
+[2020.02.24-15.27.51:105][ 45]LogHttp: Warning: 0000022A989B7100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.24-15.27.51:105][ 45]LogHttp: Warning: 0000022A989B7100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.24-15.27.51:105][ 45]LogHttp: Warning: 0000022A989B7100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22a1b947f70 [can pipeline])
+[2020.02.24-15.27.51:105][ 45]LogHttp: Warning: 0000022A989B7100: libcurl info message cache 1 (Re-using existing connection! (#19) with host datarouter.ol.epicgames.com)
+[2020.02.24-15.27.51:105][ 45]LogHttp: Warning: 0000022A989B7100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.82.163.3) port 443 (#19))
+[2020.02.24-15.27.51:105][ 45]LogHttp: Warning: 0000022A989B7100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.24-15.27.51:105][ 45]LogHttp: Warning: 0000022A989B7100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.24-15.27.51:105][ 45]LogHttp: Warning: 0000022A989B7100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.24-15.27.51:105][ 45]LogHttp: Warning: 0000022A989B7100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.24-15.27.51:105][ 45]LogHttp: Warning: 0000022A989B7100: libcurl info message cache 7 (Closing connection 19)
+[2020.02.24-15.27.51:442][ 46]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.24-15.31.51:113][801]LogHttp: Warning: 0000022A989B4CC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.24-15.31.51:113][801]LogHttp: Warning: 0000022A989B4CC0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.24-15.31.51:113][801]LogHttp: Warning: 0000022A989B4CC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22a1b947f70 [can pipeline])
+[2020.02.24-15.31.51:113][801]LogHttp: Warning: 0000022A989B4CC0: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2020.02.24-15.31.51:113][801]LogHttp: Warning: 0000022A989B4CC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.94.140.213) port 443 (#20))
+[2020.02.24-15.31.51:113][801]LogHttp: Warning: 0000022A989B4CC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.24-15.31.51:113][801]LogHttp: Warning: 0000022A989B4CC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.24-15.31.51:113][801]LogHttp: Warning: 0000022A989B4CC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.24-15.31.51:113][801]LogHttp: Warning: 0000022A989B4CC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.24-15.31.51:113][801]LogHttp: Warning: 0000022A989B4CC0: libcurl info message cache 7 (Closing connection 20)
+[2020.02.24-15.31.51:452][802]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: 0000022A989B6FC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: 0000022A989B6FC0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: 0000022A989B6FC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22a1b947f70 [can pipeline])
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: 0000022A989B6FC0: libcurl info message cache 1 (Re-using existing connection! (#22) with host datarouter.ol.epicgames.com)
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: 0000022A989B6FC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.228.241.16) port 443 (#22))
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: 0000022A989B6FC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: 0000022A989B6FC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: 0000022A989B6FC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: 0000022A989B6FC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: 0000022A989B6FC0: libcurl info message cache 7 (Closing connection 22)
+[2020.02.24-15.38.51:051][ 52]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.24-18.42.41:458][737]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.24-18.42.41:801][739]LogHttp: Warning: 0000022A989B51C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.24-18.42.41:801][739]LogHttp: Warning: 0000022A989B51C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.24-18.42.41:801][739]LogHttp: Warning: 0000022A989B51C0: libcurl info message cache 0 (Connection 23 seems to be dead!)
+[2020.02.24-18.42.41:801][739]LogHttp: Warning: 0000022A989B51C0: libcurl info message cache 1 (Closing connection 23)
+[2020.02.24-18.42.41:801][739]LogHttp: Warning: 0000022A989B51C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.24-18.42.41:801][739]LogHttp: Warning: 0000022A989B51C0: libcurl info message cache 3 (Closing connection 24)
+[2020.02.24-18.42.42:134][740]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.24-18.42.42:465][740]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.25-14.05.24:345][744]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.25-14.05.25:616][745]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.25-14.05.25:616][745]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.25-14.05.25:616][745]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.25-14.05.25:632][745]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.25-14.05.25:966][747]LogHttp: Warning: 0000022A989B6200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.25-14.05.25:966][747]LogHttp: Warning: 0000022A989B6200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.25-14.05.25:966][747]LogHttp: Warning: 0000022A989B6200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.25-14.05.25:966][747]LogHttp: Warning: 0000022A989B6200: libcurl info message cache 1 (Closing connection 25)
+[2020.02.25-14.05.26:305][748]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-14.05.27:538][751]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.25-14.05.27:538][751]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.25-14.05.27:538][751]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.25-14.05.27:720][751]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.25-14.05.29:596][757]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.25-14.05.29:596][757]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.25-14.05.29:596][757]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.25-14.05.29:752][757]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.25-14.05.31:623][763]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.25-14.05.31:623][763]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.25-14.05.31:624][763]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.25-14.05.31:793][763]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.25-14.05.33:643][769]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.25-14.05.33:643][769]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.25-14.05.33:643][769]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.25-14.05.33:796][769]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.25-14.05.35:659][775]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.25-14.05.35:659][775]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.25-14.05.35:659][775]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.25-14.05.35:809][775]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.25-14.05.37:677][781]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.25-14.05.37:677][781]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.25-14.05.37:677][781]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.25-14.05.37:825][781]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.25-14.06.09:845][928]LogEditorViewport: Clicking on Actor (LMB): Factory_02_01_closed_C (Factory_02_01_closed)
+[2020.02.25-14.06.11:167][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_en_ConcretePlates_14)
+[2020.02.25-14.06.21:231][400]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-14.06.21:271][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.02.25-14.06.21:272][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-14.06.21:272][400]PIE: New page: PIE session: Terrain (Feb 25, 2020, 4:06:21 PM)
+[2020.02.25-14.06.21:272][400]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.02.25-14.06.21:401][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128382s)
+[2020.02.25-14.06.21:402][400]LogAIModule: Creating AISystem for world Terrain
+[2020.02.25-14.06.21:403][400]LogPlayLevel: PIE: World Init took: (0.002086s)
+[2020.02.25-14.06.21:403][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Terrain.Terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain (0.131009s)
+[2020.02.25-14.06.21:452][400]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.02.25-14.06.21:460][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-14.06.21:460][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-14.06.21:460][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-14.06.21:460][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-14.06.21:460][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-14.06.21:460][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-14.06.21:460][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-14.06.21:460][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-14.06.21:460][400]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-14.06.21:460][400]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-14.06.21:469][400]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-14.06.21:469][400]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.25-14.06.21:469][400]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-14.06.21:469][400]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-14.06.21:469][400]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-14.06.21:469][400]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-14.06.21:469][400]LogAudioMixer: Display: Channel Order:
+[2020.02.25-14.06.21:469][400]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-14.06.21:469][400]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-14.06.21:491][400]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.25-14.06.21:493][400]LogInit: FAudioDevice initialized.
+[2020.02.25-14.06.21:501][400]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.25-14.06.21:522][400]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2020.02.25-15.06.21
+[2020.02.25-14.06.21:523][400]LogWorld: Bringing up level for play took: 0.021573
+[2020.02.25-14.06.21:523][400]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] 280.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] -20.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [DoorCoins_Blueprint2] 280.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [DoorCoins_Blueprint2] -20.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [DoorKey_Blueprint_2] 50.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [DoorKey_Blueprint_2] -250.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [DoorKey_Blueprint2] 50.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [DoorKey_Blueprint2] -250.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [Door_Blueprint_2] 40.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [Door_Blueprint_2] -260.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [Elevator_Blueprint_2] -600.0
+[2020.02.25-14.06.21:525][400]LogBlueprintUserMessages: [Elevator_Blueprint_2] -1800.0
+[2020.02.25-14.06.21:526][400]LogBlueprintUserMessages: [Elevator_Blueprint2] 600.0
+[2020.02.25-14.06.21:526][400]LogBlueprintUserMessages: [Elevator_Blueprint2] -300.0
+[2020.02.25-14.06.21:526][400]LogBlueprintUserMessages: [ThirdPersonCharacter_2] X=0.000 Y=0.000 Z=-274.663
+[2020.02.25-14.06.21:526][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-14.06.21:527][400]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain -0.421
+[2020.02.25-14.06.21:527][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.02.25-14.06.21:543][401]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.21:543][401]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.21:755][404]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.21:755][404]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.21:957][415]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.21:957][415]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.22:171][429]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.22:171][429]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.22:379][442]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.22:379][442]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.22:584][454]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.22:584][454]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.22:783][466]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.22:784][466]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.23:002][480]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.23:002][480]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.23:036][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-14.06.23:037][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.02.25-14.06.23:037][482]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.02.25-14.06.23:037][482]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-14.06.23:038][482]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.06.23:048][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-14.06.23:063][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-14.06.23:063][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.02.25-14.06.23:068][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-14.06.23:105][482]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-14.06.23:109][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-14.06.23:122][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.25-14.06.23:221][483]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.02.25-14.06.24:300][540]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-14.06.24:354][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.02.25-14.06.24:354][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-14.06.24:354][540]PIE: New page: PIE session: Terrain (Feb 25, 2020, 4:06:24 PM)
+[2020.02.25-14.06.24:354][540]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.02.25-14.06.24:479][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125114s)
+[2020.02.25-14.06.24:480][540]LogAIModule: Creating AISystem for world Terrain
+[2020.02.25-14.06.24:480][540]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2020.02.25-14.06.24:480][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Terrain.Terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain (0.126736s)
+[2020.02.25-14.06.24:519][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.02.25-14.06.24:520][540]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-14.06.24:520][540]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-14.06.24:520][540]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-14.06.24:520][540]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-14.06.24:520][540]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-14.06.24:520][540]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-14.06.24:520][540]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-14.06.24:520][540]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-14.06.24:521][540]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-14.06.24:521][540]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-14.06.24:528][540]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-14.06.24:528][540]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.25-14.06.24:528][540]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-14.06.24:528][540]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-14.06.24:528][540]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-14.06.24:528][540]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-14.06.24:528][540]LogAudioMixer: Display: Channel Order:
+[2020.02.25-14.06.24:529][540]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-14.06.24:529][540]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-14.06.24:550][540]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.25-14.06.24:551][540]LogInit: FAudioDevice initialized.
+[2020.02.25-14.06.24:562][540]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.25-14.06.24:582][540]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2020.02.25-15.06.24
+[2020.02.25-14.06.24:583][540]LogWorld: Bringing up level for play took: 0.019770
+[2020.02.25-14.06.24:583][540]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.02.25-14.06.24:585][540]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] 280.0
+[2020.02.25-14.06.24:585][540]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] -20.0
+[2020.02.25-14.06.24:585][540]LogBlueprintUserMessages: [DoorCoins_Blueprint2] 280.0
+[2020.02.25-14.06.24:585][540]LogBlueprintUserMessages: [DoorCoins_Blueprint2] -20.0
+[2020.02.25-14.06.24:585][540]LogBlueprintUserMessages: [DoorKey_Blueprint_2] 50.0
+[2020.02.25-14.06.24:585][540]LogBlueprintUserMessages: [DoorKey_Blueprint_2] -250.0
+[2020.02.25-14.06.24:585][540]LogBlueprintUserMessages: [DoorKey_Blueprint2] 50.0
+[2020.02.25-14.06.24:585][540]LogBlueprintUserMessages: [DoorKey_Blueprint2] -250.0
+[2020.02.25-14.06.24:585][540]LogBlueprintUserMessages: [Door_Blueprint_2] 40.0
+[2020.02.25-14.06.24:585][540]LogBlueprintUserMessages: [Door_Blueprint_2] -260.0
+[2020.02.25-14.06.24:586][540]LogBlueprintUserMessages: [Elevator_Blueprint_2] -600.0
+[2020.02.25-14.06.24:586][540]LogBlueprintUserMessages: [Elevator_Blueprint_2] -1800.0
+[2020.02.25-14.06.24:586][540]LogBlueprintUserMessages: [Elevator_Blueprint2] 600.0
+[2020.02.25-14.06.24:586][540]LogBlueprintUserMessages: [Elevator_Blueprint2] -300.0
+[2020.02.25-14.06.24:586][540]LogBlueprintUserMessages: [ThirdPersonCharacter_2] X=0.000 Y=0.000 Z=-274.663
+[2020.02.25-14.06.24:586][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-14.06.24:586][540]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain 0.638
+[2020.02.25-14.06.24:587][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.02.25-14.06.24:603][541]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.24:603][541]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.24:816][544]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.24:816][544]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.25:019][562]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.25:019][562]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.25:226][575]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.25:226][575]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.25:427][588]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.25:428][588]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.25:639][601]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.25:639][601]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.25:845][613]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.25:845][613]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.26:050][625]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.26:050][625]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.26:264][638]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.26:264][638]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.26:473][651]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.26:473][651]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.26:688][666]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.26:688][666]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.26:892][678]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.26:892][678]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.27:093][691]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.27:093][691]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.27:300][705]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.27:300][705]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.27:509][718]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.27:509][718]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.27:722][732]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.27:722][732]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.27:926][743]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.27:927][743]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.28:139][756]LogNet: Browse: /Game/ThirdPersonBP/Maps/Terrain
+[2020.02.25-14.06.28:139][756]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Terrain
+[2020.02.25-14.06.28:140][756]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.02.25-14.06.28:141][756]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.06.28:149][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-14.06.28:149][756]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-14.06.28:199][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.25-14.06.28:202][756]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.02.25-14.06.28:328][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125158s)
+[2020.02.25-14.06.28:329][756]LogAIModule: Creating AISystem for world Terrain
+[2020.02.25-14.06.28:330][756]LogPlayLevel: PIE: World Init took: (0.001806s)
+[2020.02.25-14.06.28:330][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Terrain.Terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain (0.127234s)
+[2020.02.25-14.06.28:330][756]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.25-14.06.28:352][756]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2020.02.25-15.06.28
+[2020.02.25-14.06.28:353][756]LogWorld: Bringing up level for play took: 0.020555
+[2020.02.25-14.06.28:353][756]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.25-14.06.28:353][756]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] 280.0
+[2020.02.25-14.06.28:353][756]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] -20.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [DoorCoins_Blueprint2] 280.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [DoorCoins_Blueprint2] -20.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [DoorKey_Blueprint_2] 50.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [DoorKey_Blueprint_2] -250.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [DoorKey_Blueprint2] 50.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [DoorKey_Blueprint2] -250.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [Door_Blueprint_2] 40.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [Door_Blueprint_2] -260.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [Elevator_Blueprint_2] -600.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [Elevator_Blueprint_2] -1800.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [Elevator_Blueprint2] 600.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [Elevator_Blueprint2] -300.0
+[2020.02.25-14.06.28:354][756]LogBlueprintUserMessages: [ThirdPersonCharacter_2] X=0.000 Y=0.000 Z=-274.663
+[2020.02.25-14.06.28:354][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-14.06.28:355][756]LogLoad: Took 0.215289 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain)
+[2020.02.25-14.06.28:368][757]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.28:368][757]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.28:578][761]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.28:578][761]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.28:779][773]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.28:779][773]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.28:986][789]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.28:986][789]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.29:199][802]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.29:199][802]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.29:405][814]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.29:406][814]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.29:613][826]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.29:613][826]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.29:820][838]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.29:820][838]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.30:030][851]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.30:030][851]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.30:241][863]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.30:241][863]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.30:451][876]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.30:451][876]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.30:658][888]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.30:658][888]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.30:870][901]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.30:871][901]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.31:089][914]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.31:090][914]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.31:302][928]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.31:302][928]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.31:519][941]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.31:519][941]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.31:732][954]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.31:732][954]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.31:941][967]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.31:941][967]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.32:142][979]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.32:142][979]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.32:354][992]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.32:354][992]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.32:569][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.32:569][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.32:780][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.32:780][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.32:997][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.32:997][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.33:214][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.33:214][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.33:419][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.33:419][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.33:625][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.33:625][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.33:827][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.33:828][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.34:033][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.34:033][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.34:243][110]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.34:243][110]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.34:443][123]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.34:443][123]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.34:653][136]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.34:653][136]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.34:861][149]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.34:861][149]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.35:072][162]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.35:072][162]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.35:288][176]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.35:288][176]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.35:492][190]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.35:492][190]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.35:703][203]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.35:703][203]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.35:905][216]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.35:905][216]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.36:119][230]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.36:119][230]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.36:332][244]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.36:333][244]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.36:541][258]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.36:541][258]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.36:746][272]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.36:746][272]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.36:960][286]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.36:960][286]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.37:163][298]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.37:163][298]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.37:374][311]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.37:374][311]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.37:583][324]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.37:583][324]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.37:791][337]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.37:791][337]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.38:004][350]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.38:005][350]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.38:208][362]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.38:208][362]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.38:421][375]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.38:422][375]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.38:637][388]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.38:638][388]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.38:839][400]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.38:839][400]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.39:048][413]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.39:049][413]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.39:257][426]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.39:257][426]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.39:467][439]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.39:468][439]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.39:669][451]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.39:669][451]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.39:875][463]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.39:875][463]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.40:085][476]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.40:085][476]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.40:300][490]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.40:301][490]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.40:502][502]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.40:502][502]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.40:718][515]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.40:718][515]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.40:923][528]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.40:923][528]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.41:134][541]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.41:134][541]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.41:344][555]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.41:344][555]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.41:545][567]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.41:545][567]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.41:754][580]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.41:754][580]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.41:968][593]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.41:968][593]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.42:176][606]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.42:176][606]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.42:384][619]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.42:384][619]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.42:594][632]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.42:594][632]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.42:801][645]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.42:801][645]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.43:010][658]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.43:010][658]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.43:222][671]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.43:222][671]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.43:427][683]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.43:427][683]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.43:627][694]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.43:628][694]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.43:840][705]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.43:840][705]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.44:057][716]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.44:057][716]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.44:275][726]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.44:275][726]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.44:487][738]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.44:487][738]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.44:693][749]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.44:693][749]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.44:909][761]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.44:909][761]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.45:123][773]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.45:124][773]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.45:329][784]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.45:329][784]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.45:544][796]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 1
+[2020.02.25-14.06.45:544][796]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.02.25-14.06.45:619][800]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-14.06.45:619][800]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-14.06.45:619][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.02.25-14.06.45:620][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-14.06.45:620][800]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.02.25-14.06.45:621][800]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-14.06.45:622][800]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.06.45:631][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-14.06.45:645][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-14.06.45:645][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.02.25-14.06.45:650][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-14.06.45:692][800]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-14.06.45:695][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-14.06.45:709][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.02.25-14.06.45:738][801]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.02.25-14.10.46:661][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.25-14.10.46:763][495]LogSlate: Window 'BasicAI2' being destroyed
+[2020.02.25-14.10.46:785][495]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.46:786][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-14.10.46:865][495]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.25-14.10.46:865][495]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.46:865][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-14.10.46:958][495]LogSlate: Window 'practicaUnreal - Unreal Editor' being destroyed
+[2020.02.25-14.10.46:959][495]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.25-14.10.47:125][496]Cmd: QUIT_EDITOR
+[2020.02.25-14.10.47:125][496]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.02.25-14.10.47:139][496]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.02.25-14.10.47:139][496]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-14.10.47:577][496]LogExit: Preparing to exit.
+[2020.02.25-14.10.48:084][496]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:087][496]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:090][496]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:092][496]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:095][496]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:097][496]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:100][496]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:103][496]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:105][496]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:108][496]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:111][496]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:113][496]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:116][496]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:118][496]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:121][496]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:123][496]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:126][496]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:130][496]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:132][496]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:135][496]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:202][496]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.25-14.10.48:258][496]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-14.10.48:263][496]LogExit: Editor shut down
+[2020.02.25-14.10.48:267][496]LogExit: Transaction tracking system shut down
+[2020.02.25-14.10.48:833][496]LogExit: Object subsystem successfully closed.
+[2020.02.25-14.10.48:863][496]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.25-14.10.48:928][496]LogModuleManager: Shutting down and abandoning module BlueprintGraph (702)
+[2020.02.25-14.10.48:928][496]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (700)
+[2020.02.25-14.10.48:928][496]LogModuleManager: Shutting down and abandoning module Voice (698)
+[2020.02.25-14.10.48:928][496]LogModuleManager: Shutting down and abandoning module StatsViewer (696)
+[2020.02.25-14.10.48:929][496]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (694)
+[2020.02.25-14.10.48:929][496]LogModuleManager: Shutting down and abandoning module SceneOutliner (692)
+[2020.02.25-14.10.48:929][496]LogModuleManager: Shutting down and abandoning module AddContentDialog (690)
+[2020.02.25-14.10.48:932][496]LogModuleManager: Shutting down and abandoning module WidgetCarousel (689)
+[2020.02.25-14.10.48:932][496]LogModuleManager: Shutting down and abandoning module EditorWidgets (686)
+[2020.02.25-14.10.48:932][496]LogModuleManager: Shutting down and abandoning module CollectionManager (684)
+[2020.02.25-14.10.48:933][496]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.02.25-14.10.48:933][496]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.02.25-14.10.48:934][496]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.02.25-14.10.48:936][496]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.02.25-14.10.48:936][496]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.02.25-14.10.48:936][496]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.02.25-14.10.48:936][496]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.02.25-14.10.48:936][496]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.02.25-14.10.48:936][496]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.02.25-14.10.48:936][496]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.02.25-14.10.48:936][496]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.02.25-14.10.48:937][496]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.02.25-14.10.48:937][496]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.02.25-14.10.48:938][496]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.02.25-14.10.48:938][496]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.02.25-14.10.48:938][496]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.02.25-14.10.48:938][496]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.02.25-14.10.48:939][496]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.02.25-14.10.48:940][496]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.02.25-14.10.48:940][496]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.02.25-14.10.48:940][496]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.02.25-14.10.48:940][496]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.02.25-14.10.48:940][496]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.02.25-14.10.48:940][496]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.02.25-14.10.48:940][496]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.02.25-14.10.48:940][496]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.02.25-14.10.48:941][496]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.02.25-14.10.48:941][496]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.02.25-14.10.48:941][496]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.02.25-14.10.48:941][496]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.02.25-14.10.48:941][496]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.02.25-14.10.48:942][496]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.02.25-14.10.48:943][496]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.02.25-14.10.48:943][496]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.02.25-14.10.48:943][496]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.02.25-14.10.48:943][496]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.02.25-14.10.48:944][496]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.02.25-14.10.48:945][496]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.02.25-14.10.48:945][496]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.02.25-14.10.48:946][496]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.02.25-14.10.48:946][496]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.02.25-14.10.48:946][496]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.02.25-14.10.48:946][496]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.02.25-14.10.49:732][496]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.02.25-14.10.49:732][496]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.02.25-14.10.49:732][496]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.02.25-14.10.49:733][496]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.02.25-14.10.49:733][496]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.02.25-14.10.49:733][496]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.02.25-14.10.49:733][496]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.02.25-14.10.49:733][496]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.02.25-14.10.49:734][496]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.02.25-14.10.49:734][496]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.02.25-14.10.49:735][496]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.02.25-14.10.49:735][496]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.02.25-14.10.49:735][496]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.02.25-14.10.49:735][496]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.02.25-14.10.49:735][496]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.02.25-14.10.49:735][496]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.02.25-14.10.49:735][496]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.02.25-14.10.49:736][496]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.02.25-14.10.49:736][496]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.02.25-14.10.49:736][496]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.02.25-14.10.49:737][496]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.02.25-14.10.49:737][496]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.02.25-14.10.49:737][496]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.02.25-14.10.49:738][496]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.02.25-14.10.49:771][496]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.02.25-14.10.49:771][496]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.02.25-14.10.49:772][496]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.02.25-14.10.49:772][496]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.02.25-14.10.49:772][496]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.02.25-14.10.49:773][496]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.02.25-14.10.49:773][496]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.02.25-14.10.49:774][496]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.02.25-14.10.49:775][496]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.02.25-14.10.49:775][496]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.02.25-14.10.49:775][496]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.02.25-14.10.49:781][496]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.02.25-14.10.49:782][496]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.02.25-14.10.49:782][496]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.02.25-14.10.49:782][496]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.02.25-14.10.49:782][496]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.02.25-14.10.49:782][496]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.02.25-14.10.49:782][496]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.02.25-14.10.49:784][496]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.02.25-14.10.49:785][496]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.02.25-14.10.49:785][496]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.02.25-14.10.49:785][496]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.02.25-14.10.49:786][496]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.02.25-14.10.49:786][496]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.02.25-14.10.49:786][496]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.02.25-14.10.49:786][496]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.02.25-14.10.49:787][496]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.02.25-14.10.49:793][496]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.02.25-14.10.49:949][496]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.02.25-14.10.49:949][496]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.02.25-14.10.49:950][496]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.02.25-14.10.49:951][496]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.02.25-14.10.49:951][496]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.02.25-14.10.49:951][496]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.02.25-14.10.49:951][496]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.02.25-14.10.49:951][496]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.02.25-14.10.49:951][496]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.02.25-14.10.49:951][496]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.02.25-14.10.49:951][496]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.02.25-14.10.49:952][496]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.02.25-14.10.49:952][496]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.02.25-14.10.49:952][496]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.02.25-14.10.49:952][496]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.02.25-14.10.49:952][496]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.02.25-14.10.49:952][496]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.02.25-14.10.49:952][496]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.02.25-14.10.49:952][496]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.02.25-14.10.49:953][496]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.02.25-14.10.49:953][496]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.02.25-14.10.49:953][496]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.02.25-14.10.49:955][496]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.02.25-14.10.49:955][496]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.02.25-14.10.49:956][496]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.02.25-14.10.49:956][496]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.02.25-14.10.49:956][496]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.02.25-14.10.49:956][496]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.02.25-14.10.49:956][496]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.02.25-14.10.49:956][496]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.02.25-14.10.49:957][496]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.02.25-14.10.49:957][496]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.02.25-14.10.49:958][496]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.02.25-14.10.49:959][496]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.02.25-14.10.49:960][496]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.02.25-14.10.49:960][496]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.02.25-14.10.49:960][496]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.02.25-14.10.49:960][496]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.02.25-14.10.49:960][496]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.02.25-14.10.49:960][496]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.02.25-14.10.49:960][496]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.02.25-14.10.49:960][496]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.02.25-14.10.49:961][496]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.02.25-14.10.49:962][496]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.02.25-14.10.49:962][496]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.02.25-14.10.49:962][496]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.02.25-14.10.49:962][496]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.02.25-14.10.49:962][496]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.02.25-14.10.49:962][496]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.02.25-14.10.50:063][496]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.02.25-14.10.50:164][496]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.02.25-14.10.50:164][496]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.02.25-14.10.50:165][496]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.02.25-14.10.50:165][496]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.02.25-14.10.50:165][496]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.02.25-14.10.50:165][496]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.02.25-14.10.50:165][496]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.02.25-14.10.50:165][496]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.02.25-14.10.50:165][496]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.02.25-14.10.50:165][496]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.02.25-14.10.50:165][496]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.25-14.10.50:166][496]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.02.25-14.10.50:166][496]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.02.25-14.10.50:166][496]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.02.25-14.10.50:166][496]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.02.25-14.10.50:166][496]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.02.25-14.10.50:166][496]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.02.25-14.10.50:166][496]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.02.25-14.10.50:166][496]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.02.25-14.10.50:167][496]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.02.25-14.10.50:169][496]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.02.25-14.10.50:170][496]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.02.25-14.10.50:170][496]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.02.25-14.10.50:170][496]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.02.25-14.10.50:171][496]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.02.25-14.10.50:176][496]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.02.25-14.10.50:177][496]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.02.25-14.10.50:177][496]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.02.25-14.10.50:177][496]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.02.25-14.10.50:177][496]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.02.25-14.10.50:191][496]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.02.25-14.10.50:191][496]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.02.25-14.10.50:191][496]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.02.25-14.10.50:191][496]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.02.25-14.10.50:191][496]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.02.25-14.10.50:192][496]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.02.25-14.10.50:192][496]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.02.25-14.10.50:192][496]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.02.25-14.10.50:192][496]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.02.25-14.10.50:193][496]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.02.25-14.10.50:193][496]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.02.25-14.10.50:194][496]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.02.25-14.10.50:194][496]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.02.25-14.10.50:195][496]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.02.25-14.10.50:195][496]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.02.25-14.10.50:195][496]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.02.25-14.10.50:195][496]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.02.25-14.10.50:196][496]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.02.25-14.10.50:196][496]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.02.25-14.10.50:197][496]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.02.25-14.10.50:197][496]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.02.25-14.10.50:197][496]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.02.25-14.10.50:197][496]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.02.25-14.10.50:197][496]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.02.25-14.10.50:197][496]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.02.25-14.10.50:197][496]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.02.25-14.10.50:198][496]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.02.25-14.10.50:198][496]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.02.25-14.10.50:198][496]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.02.25-14.10.50:198][496]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.02.25-14.10.50:198][496]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.02.25-14.10.50:200][496]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.02.25-14.10.50:202][496]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.25-14.10.50:205][496]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.02.25-14.10.50:205][496]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.02.25-14.10.50:205][496]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.02.25-14.10.50:205][496]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.02.25-14.10.50:205][496]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.02.25-14.10.50:205][496]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.02.25-14.10.50:206][496]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.02.25-14.10.50:207][496]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.02.25-14.10.50:207][496]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.02.25-14.10.50:207][496]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.02.25-14.10.50:207][496]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.02.25-14.10.50:208][496]LogDerivedDataCache: Shutdown
+[2020.02.25-14.10.50:208][496]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.02.25-14.10.50:208][496]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.02.25-14.10.50:208][496]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.02.25-14.10.50:208][496]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.02.25-14.10.50:208][496]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.02.25-14.10.50:209][496]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.02.25-14.10.50:209][496]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.02.25-14.10.50:209][496]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.02.25-14.10.50:209][496]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.02.25-14.10.50:209][496]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.02.25-14.10.50:210][496]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.02.25-14.10.50:210][496]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.02.25-14.10.50:210][496]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.02.25-14.10.50:210][496]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.02.25-14.10.50:210][496]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.02.25-14.10.50:210][496]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.02.25-14.10.50:210][496]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.02.25-14.10.50:211][496]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.02.25-14.10.50:211][496]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.02.25-14.10.50:211][496]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.02.25-14.10.50:211][496]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.02.25-14.10.50:211][496]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.02.25-14.10.50:242][496]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.25-14.10.50:251][496]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.02.25-14.10.50:251][496]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.02.25-14.10.50:251][496]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.02.25-14.10.50:251][496]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.02.25-14.10.50:251][496]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.02.25-14.10.50:251][496]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.02.25-14.10.50:251][496]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.02.25-14.10.50:252][496]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.02.25-14.10.50:278][496]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.25-14.10.50:449][496]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.02.25-14.10.50:449][496]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.02.25-14.10.50:449][496]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.02.25-14.10.50:449][496]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.02.25-14.10.50:450][496]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.02.25-14.10.50:450][496]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.02.25-14.10.50:450][496]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.02.25-14.10.50:450][496]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.02.25-14.10.50:450][496]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.02.25-14.10.50:450][496]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.02.25-14.10.50:451][496]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.02.25-14.10.50:451][496]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.02.25-14.10.50:451][496]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.02.25-14.10.50:451][496]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.25-14.10.50:451][496]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.02.25-14.10.50:452][496]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.02.25-14.10.50:452][496]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.02.25-14.10.50:452][496]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.02.25-14.10.50:452][496]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.02.25-14.10.50:453][496]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.02.25-14.10.50:453][496]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.02.25-14.10.50:496][496]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.02.25-14.10.50:496][496]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.25-14.10.50:496][496]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.02.25-14.10.50:496][496]LogHttp: Warning: 0000022B35F2EAC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D8DFB0-49C9-0DC6-301E-128936C310A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=396d3c574fd1cac6fb8896ab2f36110d%7C6de0ab359227493b88970a184f516c54%7Ccf21210c-60ce-4ef8-a586-c8112a33bb4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.25-14.10.50:496][496]LogHttp: Warning: 0000022B35F2EAC0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.25-14.10.50:496][496]LogHttp: Warning: 0000022B35F2EAC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22a1b947f70 [can pipeline])
+[2020.02.25-14.10.50:496][496]LogHttp: Warning: 0000022B35F2EAC0: libcurl info message cache 1 (Re-using existing connection! (#27) with host datarouter.ol.epicgames.com)
+[2020.02.25-14.10.50:496][496]LogHttp: Warning: 0000022B35F2EAC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.193.227) port 443 (#27))
+[2020.02.25-14.10.50:496][496]LogHttp: Warning: 0000022B35F2EAC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.25-14.10.50:496][496]LogHttp: Warning: 0000022B35F2EAC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.25-14.10.50:496][496]LogHttp: Warning: 0000022B35F2EAC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.25-14.10.50:496][496]LogHttp: Warning: 0000022B35F2EAC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.25-14.10.50:496][496]LogHttp: Warning: 0000022B35F2EAC0: libcurl info message cache 7 (Closing connection 27)
+[2020.02.25-14.10.50:520][496]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.02.25-14.10.50:522][496]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.02.25-14.10.50:525][496]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.02.25-14.10.50:526][496]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.02.25-14.10.50:526][496]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.02.25-14.10.50:526][496]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.02.25-14.10.50:526][496]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.02.25-14.10.50:526][496]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.02.25-14.10.50:526][496]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.02.25-14.10.50:526][496]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.02.25-14.10.50:527][496]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.25-14.10.50:527][496]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.25-14.10.50:527][496]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.25-14.10.50:528][496]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.25-14.10.50:529][496]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.25-14.10.50:530][496]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.25-14.10.50:530][496]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.25-14.10.50:530][496]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.25-14.10.50:536][496]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.25-14.10.50:537][496]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.25-14.10.50:537][496]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.25-14.10.50:537][496]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.25-14.10.50:537][496]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.25-14.10.50:537][496]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.25-14.10.50:537][496]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.25-14.10.50:538][496]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.25-14.10.50:538][496]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.25-14.10.50:538][496]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.25-14.10.50:538][496]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.25-14.10.50:538][496]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.25-14.10.50:557][496]LogD3D11RHI: Shutdown
+[2020.02.25-14.10.50:557][496]LogD3D11RHI: CleanupD3DDevice
+[2020.02.25-14.10.50:578][496]LogExit: Exiting.
+[2020.02.25-14.10.50:600][496]Log file closed, 02/25/20 15:10:50
