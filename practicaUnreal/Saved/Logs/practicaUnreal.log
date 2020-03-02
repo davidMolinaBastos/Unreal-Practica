@@ -2248,3 +2248,623 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.02-13.59.14:767][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
 [2020.03.02-13.59.14:797][759]LogPlayLevel: Display: Destroying online subsystem :Context_31
 [2020.03.02-13.59.16:714][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.03.02-14.00.13:935][730]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD/MM_HUD.MM_HUD
+[2020.03.02-14.00.59:261][459]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-14.00.59:261][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.00.59:289][459]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-14.00.59:289][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.01.15:514][986]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/HUD/UI/NewWidgetBlueprint.
+[2020.03.02-14.01.22:214][342]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
+[2020.03.02-14.01.22:222][342]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.SKEL_PauseMenu_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/HUD/UI/NewWidgetBlueprint.PackageMetaData'
+[2020.03.02-14.01.22:222][342]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.PauseMenu_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/HUD/UI/NewWidgetBlueprint.PackageMetaData'
+[2020.03.02-14.01.22:222][342]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.PauseMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/HUD/UI/NewWidgetBlueprint.PackageMetaData'
+[2020.03.02-14.01.22:222][342]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.PauseMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/HUD/UI/NewWidgetBlueprint.PackageMetaData'
+[2020.03.02-14.01.22:222][342]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.PauseMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/HUD/UI/NewWidgetBlueprint.PackageMetaData'
+[2020.03.02-14.01.22:286][342]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/PauseMenuB89E21664F380D29C2860AAF2B94D8E8.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.uasset'
+[2020.03.02-14.01.22:647][342]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2020.03.02-14.01.22:715][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.03.02-14.01.22:764][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.03.02-14.01.22:887][342]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.
+[2020.03.02-14.01.22:899][342]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.02-14.01.22:900][342]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.PauseMenu
+[2020.03.02-14.01.28:263][377]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.PauseMenu
+[2020.03.02-14.03.20:480][100]LogEditorTransaction: Undo Changed Anchors
+[2020.03.02-14.05.32:477][272]LogSlate: Took 0.011507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.03.02-14.06.41:606][ 97]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.02-14.07.15:787][616]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.02-14.09.31:627][896]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.03.02-14.09.31:629][896]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Terrain' took 0.063
+[2020.03.02-14.09.31:630][896]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu] ([1] browsable assets)...
+[2020.03.02-14.09.31:630][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu]
+[2020.03.02-14.09.31:653][896]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/PauseMenu_Auto59D668E234410F5D16C21D8B9893D3A8B.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu_Auto5.uasset'
+[2020.03.02-14.09.31:654][896]LogFileHelpers: Auto-saving content packages took 0.025
+[2020.03.02-14.09.37:440][236]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.02-14.11.36:631][ 61]BlueprintLog: New page: Compile PauseMenu
+[2020.03.02-14.11.36:690][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.03.02-14.11.37:370][ 85]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/PauseMenuF97B1BA94EF64A81019D4E9A81BC479B.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.uasset'
+[2020.03.02-14.11.37:397][ 85]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.02-14.11.37:397][ 85]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.PauseMenu
+[2020.03.02-14.12.11:749][391]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BasicAI1.BasicAI1
+[2020.03.02-14.12.15:955][609]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-14.12.15:955][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.12.17:741][709]LogEditorViewport: Clicking on Actor (LMB): BasicAI2_C (BasicAI2WithRagdoll)
+[2020.03.02-14.12.17:835][710]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2020.03.02-14.12.36:259][785]LogEditorViewport: Clicking on Actor (LMB): BasicAI2_C (BasicAI2WithRagdoll)
+[2020.03.02-14.13.05:377][347]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.03.02-14.13.05:461][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.03.02-14.13.06:090][347]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Terrain11ABC843402D4CE5634314866FB53DDC.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/Terrain.umap'
+[2020.03.02-14.13.06:140][347]LogFileHelpers: Saving map 'Terrain' took 0.729
+[2020.03.02-14.13.06:181][347]AssetCheck: New page: Asset Save: Terrain
+[2020.03.02-14.13.06:181][347]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Terrain.Terrain
+[2020.03.02-14.15.41:113][ 74]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.02-14.15.54:023][815]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD/MM_HUD.MM_HUD
+[2020.03.02-14.15.56:626][936]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-14.15.56:626][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.15.56:632][936]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-14.15.56:632][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.15.59:636][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.03.02-14.16.02:394][ 92]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.02-14.16.02:614][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.03.02-14.16.02:676][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.03.02-14.16.02:723][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.03.02-14.16.09:182][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.03.02-14.16.09:267][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.03.02-14.16.09:892][458]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Terrain1CD82201439E947C0A70968C84D6D9F9.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/Terrain.umap'
+[2020.03.02-14.16.09:941][458]LogFileHelpers: Saving map 'Terrain' took 0.726
+[2020.03.02-14.16.09:986][458]AssetCheck: New page: Asset Save: Terrain
+[2020.03.02-14.16.09:986][458]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Terrain.Terrain
+[2020.03.02-14.17.55:091][826]BlueprintLog: New page: Compile Terrain
+[2020.03.02-14.17.55:487][826]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.03.02-14.17.56:049][851]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.03.02-14.17.56:679][851]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Terrain84D6F93A4D41C111380C4A84CC0066DE.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/Terrain.umap'
+[2020.03.02-14.17.56:722][851]LogFileHelpers: Saving map 'Terrain' took 0.726
+[2020.03.02-14.17.56:766][851]AssetCheck: New page: Asset Save: Terrain
+[2020.03.02-14.17.56:766][851]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Terrain.Terrain
+[2020.03.02-14.18.08:412][517]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.03.02-14.18.09:054][517]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/TerrainCE9C8C214136CCC6EBA371A9D4756335.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/Terrain.umap'
+[2020.03.02-14.18.09:101][517]LogFileHelpers: Saving map 'Terrain' took 0.742
+[2020.03.02-14.18.09:148][517]AssetCheck: New page: Asset Save: Terrain
+[2020.03.02-14.18.09:149][517]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Terrain.Terrain
+[2020.03.02-14.18.16:008][915]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-14.18.16:042][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.18.16:045][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-14.18.16:045][915]PIE: New page: PIE session: Terrain (Mar 2, 2020, 4:18:16 PM)
+[2020.03.02-14.18.16:045][915]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.02-14.18.16:171][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125489s)
+[2020.03.02-14.18.16:172][915]LogAIModule: Creating AISystem for world Terrain
+[2020.03.02-14.18.16:172][915]LogPlayLevel: PIE: World Init took: (0.002426s)
+[2020.03.02-14.18.16:173][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Terrain.Terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain (0.128228s)
+[2020.03.02-14.18.16:221][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.03.02-14.18.16:223][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-14.18.16:223][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-14.18.16:223][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-14.18.16:223][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-14.18.16:223][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-14.18.16:223][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-14.18.16:223][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-14.18.16:223][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-14.18.16:224][915]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-14.18.16:224][915]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-14.18.16:233][915]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-14.18.16:233][915]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.02-14.18.16:233][915]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-14.18.16:233][915]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-14.18.16:233][915]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-14.18.16:233][915]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-14.18.16:233][915]LogAudioMixer: Display: Channel Order:
+[2020.03.02-14.18.16:233][915]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-14.18.16:233][915]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-14.18.16:255][915]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.02-14.18.16:257][915]LogInit: FAudioDevice initialized.
+[2020.03.02-14.18.16:263][915]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.02-14.18.16:283][915]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 60) at 2020.03.02-15.18.16
+[2020.03.02-14.18.16:285][915]LogWorld: Bringing up level for play took: 0.021255
+[2020.03.02-14.18.16:286][915]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] 280.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] -20.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [DoorCoins_Blueprint2] 280.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [DoorCoins_Blueprint2] -20.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [DoorKey_Blueprint_2] 50.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [DoorKey_Blueprint_2] -250.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [DoorKey_Blueprint2] 50.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [DoorKey_Blueprint2] -250.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [Door_Blueprint_2] 40.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [Door_Blueprint_2] -260.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [Elevator_Blueprint_2] -600.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [Elevator_Blueprint_2] -1800.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [Elevator_Blueprint2] 600.0
+[2020.03.02-14.18.16:288][915]LogBlueprintUserMessages: [Elevator_Blueprint2] -300.0
+[2020.03.02-14.18.16:290][915]LogBlueprintUserMessages: [ThirdPersonCharacter_2] X=0.000 Y=0.000 Z=-274.663
+[2020.03.02-14.18.16:290][915]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain -0.614
+[2020.03.02-14.18.16:290][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.18.16:327][916]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.16:327][916]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.16:571][919]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.16:572][919]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.16:771][931]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.16:771][931]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.16:972][943]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.16:972][943]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.17:172][955]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.17:172][955]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.18:302][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.18:302][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.18:502][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.18:502][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.18:702][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.18:702][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.18:902][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.18:902][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.19:102][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.19:102][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.19:302][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.19:302][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.19:502][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.19:502][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.19:702][102]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.19:702][102]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.19:902][114]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.19:902][114]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.20:103][126]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.20:103][126]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.20:302][138]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.20:302][138]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.21:323][190]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.21:323][190]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.21:516][202]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.21:516][202]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.21:715][214]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.21:715][214]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.21:915][226]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.21:915][226]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.22:115][238]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.22:115][238]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.22:315][250]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.22:315][250]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.22:515][262]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.22:515][262]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.22:715][274]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.22:715][274]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.22:915][286]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.22:916][286]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.23:115][298]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.23:116][298]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.23:315][310]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.23:315][310]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.23:515][322]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.23:515][322]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.23:633][329]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.18.23:633][329]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.18.23:633][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.18.23:638][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-14.18.23:638][329]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.02-14.18.23:638][329]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.18.23:638][329]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-14.18.23:643][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.18.23:657][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-14.18.23:657][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.18.23:664][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.18.23:714][329]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.18.23:719][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-14.18.23:729][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.03.02-14.18.23:757][330]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.03.02-14.18.26:592][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.03.02-14.18.41:381][670]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-14.18.41:417][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.18.41:420][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-14.18.41:420][670]PIE: New page: PIE session: Terrain (Mar 2, 2020, 4:18:41 PM)
+[2020.03.02-14.18.41:420][670]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.02-14.18.41:558][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137813s)
+[2020.03.02-14.18.41:561][670]LogAIModule: Creating AISystem for world Terrain
+[2020.03.02-14.18.41:561][670]LogPlayLevel: PIE: World Init took: (0.003481s)
+[2020.03.02-14.18.41:561][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Terrain.Terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain (0.141659s)
+[2020.03.02-14.18.41:616][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.03.02-14.18.41:617][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-14.18.41:617][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-14.18.41:617][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-14.18.41:617][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-14.18.41:617][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-14.18.41:617][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-14.18.41:617][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-14.18.41:617][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-14.18.41:617][670]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-14.18.41:617][670]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-14.18.41:625][670]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-14.18.41:625][670]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.02-14.18.41:625][670]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-14.18.41:625][670]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-14.18.41:625][670]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-14.18.41:625][670]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-14.18.41:625][670]LogAudioMixer: Display: Channel Order:
+[2020.03.02-14.18.41:625][670]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-14.18.41:625][670]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-14.18.41:649][670]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.02-14.18.41:651][670]LogInit: FAudioDevice initialized.
+[2020.03.02-14.18.41:660][670]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.02-14.18.41:682][670]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 60) at 2020.03.02-15.18.41
+[2020.03.02-14.18.41:683][670]LogWorld: Bringing up level for play took: 0.022137
+[2020.03.02-14.18.41:684][670]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.03.02-14.18.41:685][670]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] 280.0
+[2020.03.02-14.18.41:685][670]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] -20.0
+[2020.03.02-14.18.41:685][670]LogBlueprintUserMessages: [DoorCoins_Blueprint2] 280.0
+[2020.03.02-14.18.41:685][670]LogBlueprintUserMessages: [DoorCoins_Blueprint2] -20.0
+[2020.03.02-14.18.41:685][670]LogBlueprintUserMessages: [DoorKey_Blueprint_2] 50.0
+[2020.03.02-14.18.41:686][670]LogBlueprintUserMessages: [DoorKey_Blueprint_2] -250.0
+[2020.03.02-14.18.41:686][670]LogBlueprintUserMessages: [DoorKey_Blueprint2] 50.0
+[2020.03.02-14.18.41:686][670]LogBlueprintUserMessages: [DoorKey_Blueprint2] -250.0
+[2020.03.02-14.18.41:686][670]LogBlueprintUserMessages: [Door_Blueprint_2] 40.0
+[2020.03.02-14.18.41:686][670]LogBlueprintUserMessages: [Door_Blueprint_2] -260.0
+[2020.03.02-14.18.41:686][670]LogBlueprintUserMessages: [Elevator_Blueprint_2] -600.0
+[2020.03.02-14.18.41:686][670]LogBlueprintUserMessages: [Elevator_Blueprint_2] -1800.0
+[2020.03.02-14.18.41:686][670]LogBlueprintUserMessages: [Elevator_Blueprint2] 600.0
+[2020.03.02-14.18.41:686][670]LogBlueprintUserMessages: [Elevator_Blueprint2] -300.0
+[2020.03.02-14.18.41:688][670]LogBlueprintUserMessages: [ThirdPersonCharacter_2] X=0.000 Y=0.000 Z=-274.663
+[2020.03.02-14.18.41:688][670]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain 0.784
+[2020.03.02-14.18.41:688][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.18.41:727][671]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.41:727][671]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.41:914][674]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.41:914][674]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.42:114][686]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.42:114][686]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.42:314][698]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.42:314][698]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.42:514][710]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.42:514][710]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.42:714][722]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.42:714][722]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.42:914][734]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.42:914][734]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.43:113][746]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.43:114][746]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.43:314][758]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.43:314][758]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.43:513][770]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.43:513][770]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.43:714][782]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.43:714][782]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.18.43:832][789]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.18.43:832][789]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.18.43:832][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.18.43:836][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-14.18.43:836][789]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.02-14.18.43:836][789]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.18.43:836][789]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-14.18.43:839][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.18.43:850][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-14.18.43:850][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.18.43:857][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.18.43:903][789]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.18.43:908][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-14.18.43:922][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.03.02-14.18.43:951][790]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.03.02-14.19.05:825][114]BlueprintLog: New page: Compile Terrain
+[2020.03.02-14.19.06:264][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.03.02-14.22.35:196][849]BlueprintLog: New page: Compile PauseMenu
+[2020.03.02-14.22.35:268][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.03.02-14.25.58:389][910]BlueprintLog: New page: Compile PauseMenu
+[2020.03.02-14.25.58:454][910]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.03.02-14.25.59:035][938]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/PauseMenu3A03D0E6440CAF9E9B94DFA3883C007B.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.uasset'
+[2020.03.02-14.25.59:057][938]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.02-14.25.59:058][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.PauseMenu
+[2020.03.02-14.26.41:413][155]BlueprintLog: New page: Compile PauseMenu
+[2020.03.02-14.26.41:476][155]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.03.02-14.26.44:396][319]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-14.26.44:437][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.26.44:439][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-14.26.44:439][319]PIE: New page: PIE session: Terrain (Mar 2, 2020, 4:26:44 PM)
+[2020.03.02-14.26.44:439][319]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.02-14.26.44:576][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136332s)
+[2020.03.02-14.26.44:577][319]LogAIModule: Creating AISystem for world Terrain
+[2020.03.02-14.26.44:577][319]LogPlayLevel: PIE: World Init took: (0.001863s)
+[2020.03.02-14.26.44:577][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Terrain.Terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain (0.138507s)
+[2020.03.02-14.26.44:629][319]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.03.02-14.26.44:629][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-14.26.44:630][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-14.26.44:630][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-14.26.44:630][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-14.26.44:630][319]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-14.26.44:630][319]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-14.26.44:630][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-14.26.44:630][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-14.26.44:630][319]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-14.26.44:630][319]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-14.26.44:639][319]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-14.26.44:639][319]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.02-14.26.44:639][319]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-14.26.44:639][319]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-14.26.44:639][319]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-14.26.44:639][319]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-14.26.44:639][319]LogAudioMixer: Display: Channel Order:
+[2020.03.02-14.26.44:639][319]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-14.26.44:639][319]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-14.26.44:664][319]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.02-14.26.44:666][319]LogInit: FAudioDevice initialized.
+[2020.03.02-14.26.44:678][319]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.02-14.26.44:700][319]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 60) at 2020.03.02-15.26.44
+[2020.03.02-14.26.44:702][319]LogWorld: Bringing up level for play took: 0.021752
+[2020.03.02-14.26.44:702][319]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] 280.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] -20.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [DoorCoins_Blueprint2] 280.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [DoorCoins_Blueprint2] -20.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [DoorKey_Blueprint_2] 50.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [DoorKey_Blueprint_2] -250.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [DoorKey_Blueprint2] 50.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [DoorKey_Blueprint2] -250.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [Door_Blueprint_2] 40.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [Door_Blueprint_2] -260.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [Elevator_Blueprint_2] -600.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [Elevator_Blueprint_2] -1800.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [Elevator_Blueprint2] 600.0
+[2020.03.02-14.26.44:704][319]LogBlueprintUserMessages: [Elevator_Blueprint2] -300.0
+[2020.03.02-14.26.44:706][319]LogBlueprintUserMessages: [ThirdPersonCharacter_2] X=0.000 Y=0.000 Z=-274.663
+[2020.03.02-14.26.44:706][319]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain -0.198
+[2020.03.02-14.26.44:706][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.26.44:727][320]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.44:727][320]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.45:003][323]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.45:003][323]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.45:203][335]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.45:203][335]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.45:402][347]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.45:402][347]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.45:603][359]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.45:603][359]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.45:803][371]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.45:803][371]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.46:003][383]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.46:003][383]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.46:203][395]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.46:203][395]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.46:402][407]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.46:402][407]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.46:603][419]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.46:603][419]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.46:803][431]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.46:803][431]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.47:003][443]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.47:003][443]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.47:053][446]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.02-14.26.48:302][521]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.48:302][521]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.48:503][533]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.48:503][533]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.48:703][545]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.48:703][545]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.48:904][557]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.48:904][557]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.49:104][569]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.49:104][569]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.49:303][581]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.49:303][581]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.49:503][593]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.49:503][593]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.49:704][605]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.49:704][605]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.49:904][617]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.49:904][617]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.50:104][629]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.50:104][629]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.26.50:173][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.26.50:187][633]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.02-14.26.50:208][633]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.02-14.26.50:208][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.26.50:212][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-14.26.50:212][633]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.02-14.26.50:213][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.26.50:213][633]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-14.26.50:216][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.26.50:225][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-14.26.50:225][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.26.50:232][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.26.50:282][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.26.50:287][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-14.26.50:298][633]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.03.02-14.26.50:319][634]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.03.02-14.29.43:238][813]BlueprintLog: New page: Compile PauseMenu
+[2020.03.02-14.29.43:301][813]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.03.02-14.29.53:871][952]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/PauseMenuD4DEDB58436E27CE47EA1BA96006D5D6.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.uasset'
+[2020.03.02-14.29.53:893][952]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.02-14.29.53:893][952]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD/UI/PauseMenu.PauseMenu
+[2020.03.02-14.29.56:433][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-14.29.56:468][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.29.56:470][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-14.29.56:470][ 96]PIE: New page: PIE session: Terrain (Mar 2, 2020, 4:29:56 PM)
+[2020.03.02-14.29.56:471][ 96]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.02-14.29.56:601][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130732s)
+[2020.03.02-14.29.56:603][ 96]LogAIModule: Creating AISystem for world Terrain
+[2020.03.02-14.29.56:603][ 96]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2020.03.02-14.29.56:603][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Terrain.Terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain (0.132715s)
+[2020.03.02-14.29.56:654][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.03.02-14.29.56:659][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-14.29.56:659][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-14.29.56:659][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-14.29.56:659][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-14.29.56:659][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-14.29.56:659][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-14.29.56:659][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-14.29.56:659][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-14.29.56:660][ 96]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-14.29.56:660][ 96]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-14.29.56:668][ 96]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-14.29.56:668][ 96]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.02-14.29.56:668][ 96]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-14.29.56:668][ 96]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-14.29.56:668][ 96]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-14.29.56:668][ 96]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-14.29.56:668][ 96]LogAudioMixer: Display: Channel Order:
+[2020.03.02-14.29.56:668][ 96]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-14.29.56:668][ 96]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-14.29.56:690][ 96]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.02-14.29.56:692][ 96]LogInit: FAudioDevice initialized.
+[2020.03.02-14.29.56:703][ 96]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.02-14.29.56:722][ 96]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 60) at 2020.03.02-15.29.56
+[2020.03.02-14.29.56:724][ 96]LogWorld: Bringing up level for play took: 0.019605
+[2020.03.02-14.29.56:724][ 96]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.03.02-14.29.56:726][ 96]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] 280.0
+[2020.03.02-14.29.56:726][ 96]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] -20.0
+[2020.03.02-14.29.56:726][ 96]LogBlueprintUserMessages: [DoorCoins_Blueprint2] 280.0
+[2020.03.02-14.29.56:726][ 96]LogBlueprintUserMessages: [DoorCoins_Blueprint2] -20.0
+[2020.03.02-14.29.56:726][ 96]LogBlueprintUserMessages: [DoorKey_Blueprint_2] 50.0
+[2020.03.02-14.29.56:726][ 96]LogBlueprintUserMessages: [DoorKey_Blueprint_2] -250.0
+[2020.03.02-14.29.56:726][ 96]LogBlueprintUserMessages: [DoorKey_Blueprint2] 50.0
+[2020.03.02-14.29.56:726][ 96]LogBlueprintUserMessages: [DoorKey_Blueprint2] -250.0
+[2020.03.02-14.29.56:726][ 96]LogBlueprintUserMessages: [Door_Blueprint_2] 40.0
+[2020.03.02-14.29.56:727][ 96]LogBlueprintUserMessages: [Door_Blueprint_2] -260.0
+[2020.03.02-14.29.56:727][ 96]LogBlueprintUserMessages: [Elevator_Blueprint_2] -600.0
+[2020.03.02-14.29.56:727][ 96]LogBlueprintUserMessages: [Elevator_Blueprint_2] -1800.0
+[2020.03.02-14.29.56:727][ 96]LogBlueprintUserMessages: [Elevator_Blueprint2] 600.0
+[2020.03.02-14.29.56:727][ 96]LogBlueprintUserMessages: [Elevator_Blueprint2] -300.0
+[2020.03.02-14.29.56:729][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_2] X=0.000 Y=0.000 Z=-274.663
+[2020.03.02-14.29.56:729][ 96]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain -0.175
+[2020.03.02-14.29.56:729][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.29.56:746][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.56:746][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.57:005][100]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.57:005][100]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.57:211][110]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.57:212][110]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.57:411][122]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.57:411][122]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.57:612][134]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.57:612][134]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.57:812][146]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.57:813][146]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:014][158]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:014][158]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:214][170]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:214][170]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:414][182]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:414][182]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:613][194]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:614][194]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:813][206]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:813][206]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.29.58:864][209]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.02-14.30.00:213][290]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.00:214][290]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.00:413][302]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.00:413][302]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.00:613][314]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.00:613][314]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.00:664][317]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.30.00:665][317]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.30.00:665][317]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.30.00:669][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-14.30.00:669][317]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.02-14.30.00:669][317]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.30.00:670][317]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-14.30.00:673][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.30.00:685][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-14.30.00:685][317]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.30.00:692][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.30.00:741][317]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.30.00:746][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-14.30.00:757][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.03.02-14.30.00:784][318]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.03.02-14.30.01:825][375]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume3)
+[2020.03.02-14.30.02:257][397]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.02-14.30.02:292][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.30.02:294][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-14.30.02:294][397]PIE: New page: PIE session: Terrain (Mar 2, 2020, 4:30:02 PM)
+[2020.03.02-14.30.02:294][397]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.02-14.30.02:420][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125319s)
+[2020.03.02-14.30.02:422][397]LogAIModule: Creating AISystem for world Terrain
+[2020.03.02-14.30.02:422][397]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2020.03.02-14.30.02:422][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Terrain.Terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain (0.127448s)
+[2020.03.02-14.30.02:470][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.03.02-14.30.02:472][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-14.30.02:472][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-14.30.02:472][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-14.30.02:472][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-14.30.02:472][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-14.30.02:472][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-14.30.02:472][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-14.30.02:472][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-14.30.02:472][397]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-14.30.02:472][397]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-14.30.02:479][397]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-14.30.02:480][397]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.02-14.30.02:480][397]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-14.30.02:480][397]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-14.30.02:480][397]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-14.30.02:480][397]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-14.30.02:480][397]LogAudioMixer: Display: Channel Order:
+[2020.03.02-14.30.02:480][397]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-14.30.02:480][397]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-14.30.02:502][397]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.02-14.30.02:503][397]LogInit: FAudioDevice initialized.
+[2020.03.02-14.30.02:511][397]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.02-14.30.02:534][397]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 60) at 2020.03.02-15.30.02
+[2020.03.02-14.30.02:534][397]LogWorld: Bringing up level for play took: 0.022215
+[2020.03.02-14.30.02:535][397]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] 280.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] -20.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [DoorCoins_Blueprint2] 280.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [DoorCoins_Blueprint2] -20.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [DoorKey_Blueprint_2] 50.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [DoorKey_Blueprint_2] -250.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [DoorKey_Blueprint2] 50.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [DoorKey_Blueprint2] -250.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [Door_Blueprint_2] 40.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [Door_Blueprint_2] -260.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [Elevator_Blueprint_2] -600.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [Elevator_Blueprint_2] -1800.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [Elevator_Blueprint2] 600.0
+[2020.03.02-14.30.02:537][397]LogBlueprintUserMessages: [Elevator_Blueprint2] -300.0
+[2020.03.02-14.30.02:539][397]LogBlueprintUserMessages: [ThirdPersonCharacter_2] X=0.000 Y=0.000 Z=-274.663
+[2020.03.02-14.30.02:539][397]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain -0.365
+[2020.03.02-14.30.02:540][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.30.02:558][398]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.02:558][398]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.02:768][401]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.02:768][401]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.02:968][413]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.02:968][413]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.03:168][425]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.03:168][425]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.03:368][437]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.03:368][437]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.03:572][449]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.03:572][449]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.03:771][461]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.03:771][461]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.03:971][473]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.03:971][473]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.04:170][485]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.04:171][485]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.04:371][497]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.04:371][497]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.05:312][550]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.05:312][550]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.05:512][562]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.05:512][562]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.05:712][574]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.05:712][574]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.05:912][586]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.05:912][586]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.06:112][598]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.06:113][598]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.06:314][610]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.02-14.30.06:315][610]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.06:315][610]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 0
+[2020.03.02-14.30.07:395][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-14.30.07:395][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.30.07:398][675]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.02-14.30.07:399][675]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.30.07:399][675]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-14.30.07:402][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.30.07:414][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-14.30.07:414][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.02-14.30.07:421][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-14.30.07:471][675]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.02-14.30.07:476][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-14.30.07:488][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.03.02-14.30.07:596][676]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.03.02-14.30.12:063][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.03.02-14.30.12:149][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.03.02-14.30.12:769][934]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Terrain96ED5D7F44D63A6DF22C748D7F161306.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/Terrain.umap'
+[2020.03.02-14.30.12:813][934]LogFileHelpers: Saving map 'Terrain' took 0.715
+[2020.03.02-14.30.12:852][934]AssetCheck: New page: Asset Save: Terrain
+[2020.03.02-14.30.12:852][934]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Terrain.Terrain
